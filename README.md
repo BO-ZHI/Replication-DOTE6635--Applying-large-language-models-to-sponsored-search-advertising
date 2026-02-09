@@ -24,4 +24,4 @@ Beyond replication, we extend the analysis by incorporating GPT-OSS (20B) combin
 
 **Citation**
 If you use this repository, please cite the original paper:
-Reisenbichler, M., Reutterer, T., & Schweidel, D. A. (2026). Applying large language models to sponsored search advertising. Marketing Science, 45(1), 123–141.
+Reisenbichler, M., Reutterer, T., & Schweidel, D. A. (2026). Applying large language models to sponsored search advertising. _Marketing Science, 45(1)_, 123–141.
